@@ -1,0 +1,14 @@
+{
+  "name": "maboutique",
+  "version": "1.0.0",
+  "description": "Serveur de test pour le projet \"Ma Boutique\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "GHUBERT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
